@@ -1,7 +1,7 @@
 ## Welcome
 
 # 💫 About Me:
-🔭 Working on small apps and games <br>👯 Currently learning <br>🍂In love with a great book in front of a fireplace  <br><br>
+👯 Currently learning <br> 🔭 Wishes to make small apps and games  <br>🍂In love with a great book in front of a fireplace  <br><br>
 
 
 # 🎀 My Tech Stack:
