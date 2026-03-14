@@ -1,7 +1,4 @@
-## Welcome
-
-# 💫 About Me:
-🧸 Currently learning <br>🍂In love with a great book in front of a fireplace  <br><br>
+## Welcome 🧸🍂
 
 
 # 🎀 My Tech Stack:
